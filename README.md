@@ -15,8 +15,8 @@ To get started with the project, follow these steps:
    `git clone https://github.com/your-username/repo-name.git`
 2. Install the required dependencies by running
    `pip install -r requirements.txt`
-3. Run the `main.py` file to start the Streamlit application:
-    `streamlit run main.py`
+3. Run the `app.py` file to start the Streamlit application:
+    `streamlit run app.py`
 
 
 ## Technologies Used
